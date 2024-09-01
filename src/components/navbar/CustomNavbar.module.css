@@ -1,0 +1,19 @@
+.nav_container{
+    display:flex;
+    justify-content:space-between;
+    align-items: center;
+    color:white;
+    background:#2c3e50;
+    padding: 0 30px;
+    width:100%;
+    height:65px;
+}
+
+.nav_left{
+
+}
+
+.nav_right{
+    display:flex;
+    gap:16px;
+}

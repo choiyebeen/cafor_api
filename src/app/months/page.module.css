@@ -10,9 +10,5 @@
   
   .content {
     width: 100%;
-    text-align: center; /* 텍스트 중앙 정렬 */
-  }
-  
-  .pad{
-    padding:100px 0;
+    
   }
