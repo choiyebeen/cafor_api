@@ -1,7 +1,7 @@
 'use client';
 
 import Link from "next/link";
-import styles from "./Sidebar.module.css"; // CSS 모듈 가져오기
+import styles from "./sidebar.module.css"; // CSS 모듈 가져오기
 
 export default function SideBar() {
   return (
